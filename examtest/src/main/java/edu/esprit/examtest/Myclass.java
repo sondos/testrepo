@@ -3,7 +3,7 @@ package edu.esprit.examtest;
 public class Myclass {
 
 	public Myclass() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public int process(int n) {
